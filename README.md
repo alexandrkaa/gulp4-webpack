@@ -23,3 +23,4 @@ export default {
     }
 }
 ```
+npm i @babel/core @babel/preset-env @babel/register browser-sync gulp webpack webpack-dev-middleware -D
